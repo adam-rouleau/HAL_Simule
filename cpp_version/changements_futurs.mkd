@@ -1,0 +1,4 @@
+# Changements a faire dans le futur 
+1. Inclure valeurs hors des plages normales pour l'acceleration et les freins
+2. S'assurer d'adapter les fonctions pour les tests (pas attendre qu'il y ai 100 erreurs avant de faire quoi que ce soit)
+3. Refaire les fonctions comme en Python qui s'assuraient qu'on recoit bien un signal (brake_channel = None n'est pas la en C++ parce que les types sont fixes)
